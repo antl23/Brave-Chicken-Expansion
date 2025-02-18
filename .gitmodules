@@ -1,0 +1,3 @@
+[submodule "brave-chicken"]
+	path = brave-chicken
+	url = https://github.com/francisb1996/brave-chicken.git
